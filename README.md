@@ -23,7 +23,7 @@
 <a href="https://codeforces.com/profile/Jupiter_is_BIG" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Jupiter_is_BIG" height="30" width="40" /></a>
 </p>
 
-[![Badge](https://cp-logo.vercel.app/codeforces/Jupiter_is_BIG?logo=true)]
+![Badge](https://cp-logo.vercel.app/codeforces/Jupiter_is_BIG?logo=true)
 
 
 <h3 align="left">Languages and Tools:</h3>
