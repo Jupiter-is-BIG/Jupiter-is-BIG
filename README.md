@@ -6,7 +6,7 @@
 <img align="right" src="./assets/daftpunktocat-thomas.gif" alt="daftpunktocat" height="300" width="300"/>
 
 
-- 🌱 I’m currently learning **App Development (Flutter) and Machine Learning.**
+- 🌱 I’m currently learning **App Development (Flutter), Machine Learning, and integartion of TensorFlow lite models in Flutter Apps.**
 
 - 👨‍💻 All about me and my projects are available at [jupiter-is-big.github.io](jupiter-is-big.github.io).
 
