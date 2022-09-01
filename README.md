@@ -10,7 +10,7 @@
 
 - 👨‍💻 All about me and my projects are available at [jupiter-is-big.github.io](jupiter-is-big.github.io).
 
-- 📫 How to reach me **babble.clef@gmail.com**
+- 📫 How to reach me **a@student.ubc.ca**
 
 - ⚡ Fun fact **World's tallest building is taller than every other building.**
 
@@ -21,6 +21,8 @@
 <a href="https://twitter.com/Anand23967473" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/twitter.svg" alt="Anand23967473" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anand-%E2%80%8D-9b761a216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/linked-in-alt.svg" alt="anand-%E2%80%8D-9b761a216" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Jupiter_is_BIG" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Jupiter_is_BIG" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/babbleclef" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="babbleclef" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/hylman697prdf0lzj8313akws" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/04/Spotify-logo.png" alt="hylman697prdf0lzj8313akws" height="30" width="40" /></a>
 </p>
 
 ![Badge](https://cp-logo.vercel.app/codeforces/Jupiter_is_BIG?logo=true)
