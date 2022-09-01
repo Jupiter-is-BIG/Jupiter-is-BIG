@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anand</h1>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=040D11&size=30&center=true&vCenter=true&width=500&lines=Student+Developer.;Student+at+Univ.+of+British+Columbia.;Exploring+ML%2C+AI+and+DL.;Competitive+Programmer.; Data+Analyst." alt="header-svg" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=040D11&size=30&center=true&vCenter=true&width=500&lines=Student+Developer.;Student+at+Univ.+of+British+Columbia.;Exploring+ML%2C+AI+and+DL.;Competitive+Programmer." alt="header-svg" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jupiter-is-big&label=Profile%20views&color=0e75b6&style=flat" alt="jupiter-is-big" /> </p>
 <img align="right" src="./assets/daftpunktocat-thomas.gif" alt="daftpunktocat" height="300" width="300"/>
