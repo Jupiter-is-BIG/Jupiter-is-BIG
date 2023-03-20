@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Unsupervised Machine Learning in a greater depth, Flask, and Web Development (React)**
 
-- 👨‍💻 All about me and my projects are available at [github.com/Jupiter-is-BIG](https://github.com/Jupiter-is-BIG).
+- 👨‍💻 All about me and my projects are available at [my website](https://portfolio-jq6d4d1hq-jupiter-is-big.vercel.app/).
 
 - 📫 How to reach me **a@student.ubc.ca**
 
