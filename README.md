@@ -33,11 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jupiter-is-big&show_icons=true&locale=en" alt="jupiter-is-big" /></p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jupiter-is-big&show_icons=true&locale=en" alt="jupiter-is-big" /></p>
-
 _Most used languages doesn't reflect my proficiency in a language and is simply a statistic from my repositories, in which language I have written the most lines of code in._
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jupiter-is-BIG&" alt="Jupiter-is-BIG" /></p>
-<h3 align="center">My Contribution Graph </h3>
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Jupiter-is-BIG&" alt="Jupiter-is-BIG" /></p>
