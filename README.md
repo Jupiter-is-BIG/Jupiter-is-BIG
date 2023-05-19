@@ -6,7 +6,7 @@
 <img align="right" src="./assets/daftpunktocat-thomas.gif" alt="daftpunktocat" height="300" width="300"/>
 
 
-- 🌱 I’m currently learning **Unsupervised Machine Learning in a greater depth, Flask, and Web Development (React)**
+- 🌱 I’m currently learning **Unsupervised Machine Learning in a greater depth**
 
 - 👨‍💻 All about me and my projects are available at [my website](https://portfolio-git-main-jupiter-is-big.vercel.app/).
 
