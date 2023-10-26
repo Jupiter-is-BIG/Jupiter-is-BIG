@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Unsupervised Machine Learning in a greater depth**
 
-- 👨‍💻 All about me and my projects are available at [my website](https://portfolio-git-main-jupiter-is-big.vercel.app/).
+- 👨‍💻 All about me and my projects are available at [my website](https://portfolio-git-main-jupiter-is-big.vercel.app/) and [google scholar](https://scholar.google.com/citations?user=6-PNCNYAAAAJ).
 
 - 📫 How to reach me **a@student.ubc.ca**
 
