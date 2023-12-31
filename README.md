@@ -1,38 +1,62 @@
-<h1 align="center">Hi 👋, I'm Anand</h1>
+<div align="center">
+  <h1 align="center">Hey, I'm Anand 🔭</h1>
+  <p><i>"World's tallest building is taller than every other building."</i></p>
+  
+  <br>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=040D11&size=30&center=true&vCenter=true&width=500&lines=Student+Developer.;Student+at+Univ.+of+British+Columbia.;Exploring+ML%2C+AI+and+DL.;Competitive+Programmer." alt="header-svg" /> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jupiter-is-big&label=Profile%20views&color=0e75b6&style=flat" alt="jupiter-is-big" /> </p>
-<img align="right" src="./assets/daftpunktocat-thomas.gif" alt="daftpunktocat" height="300" width="300"/>
-
-
-- 🌱 I’m currently learning **Unsupervised Machine Learning in a greater depth**
-
-- 👨‍💻 All about me and my projects are available at [my website](https://portfolio-git-main-jupiter-is-big.vercel.app/) and [google scholar](https://scholar.google.com/citations?user=6-PNCNYAAAAJ).
-
-- 📫 How to reach me **a@student.ubc.ca**
-
-- ⚡ Fun fact **World's tallest building is taller than every other building.**
+  
 
 
+  <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" align="left" width="25%" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Anand23967473" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/twitter.svg" alt="Anand23967473" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/anand-%E2%80%8D-9b761a216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/linked-in-alt.svg" alt="anand-%E2%80%8D-9b761a216" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Jupiter_is_BIG" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Jupiter_is_BIG" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/babbleclef" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="babbleclef" height="20" width="30" /></a>
-<a href="https://open.spotify.com/user/hylman697prdf0lzj8313akws" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/04/Spotify-logo.png" alt="hylman697prdf0lzj8313akws" height="20" width="35" /></a>
-</p>
-
-![Badge](https://cp-logo.vercel.app/codeforces/Jupiter_is_BIG?logo=true)
+   
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.java.com/en/"><img src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png" alt="java.png" width="30" height="40"></a><a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="c" width="40" height="40"/> </a><a href="https://tensorflow.org/" target="_blank"> <img src="https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png" alt="c" width="40" height="40"/> </a> <a href="https://www.latex-project.org/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/852661770036535296/oYcD0Q6W_400x400.jpg" alt="c" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<br>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=25&duration=798&pause=1000&color=619E34&center=true&random=false&width=435&lines=Student+Developer;Competitive+Programmer;Student+at+Univ+of+British+Columbia" alt="Text" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jupiter-is-big&show_icons=true&locale=en" alt="jupiter-is-big" /></p>
+  <p width="50%">I am a Computer Programming and Math Enthusiast currently pursuing BSc in<br> Computer Science from UBC. You can get in touch from the following sources:</p>
 
-_Most used languages doesn't reflect my proficiency in a language and is simply a statistic from my repositories, in which language I have written the most lines of code in._
+  <a href="mailto:a@student.ubc.ca">
+    <img src="https://www.freeiconspng.com/uploads/email-icon--clipart-best-22.png" height="48">
+  </a>
+  <a href="https://www.instagram.com/clef.anand/">
+    <img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" height="48">
+  </a>
+  <a href="https://codeforces.com/profile/Jupiter_is_BIG">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" height="48">
+  </a>
+  <a href="https://www.linkedin.com/in/anandin">
+    <img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" height="48">
+  </a>
+   <a href="https://open.spotify.com/user/hylman697prdf0lzj8313akws">
+    <img src="https://www.freeiconspng.com/uploads/spotify-icon-18.png" height="48">
+  </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jupiter-is-BIG&" alt="Jupiter-is-BIG" /></p>
+<br>
+
+<a href="https://drive.google.com/file/d/1X526E_qPgyCe_8ZmHu95uZJwd5BdNJ5q/view?usp=sharing"><b>My Resume<b></a>
+  <br>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="20%"/>
+    </p>
+
+<span align="center">
+    <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Jupiter_is_BIG"/>
+    </span>
+  <span align="center"> <img src="https://komarev.com/ghpvc/?username=jupiter-is-big&label=Profile%20views&color=0e75b6&style=flat" alt="jupiter-is-big" /> </span>
+
+
+  <br>
+  <br>
+  <br>
+  
+
+
+
+
+   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jupiter-is-BIG&hide=jupyter%20notebook&layout=compact&theme=vue&langs_count=10&count_private=true" alt="Top Languages" align="left"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=Jupiter-is-BIG&theme=radical" alt="Github Stats" align="center"/>
+
+
