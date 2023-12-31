@@ -57,6 +57,6 @@
 
 
    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jupiter-is-BIG&hide=jupyter%20notebook&layout=compact&theme=vue&langs_count=10&count_private=true" alt="Top Languages" align="left"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=Jupiter-is-BIG&theme=radical" alt="Github Stats" align="center"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=Jupiter-is-BIG&theme=swift" alt="Github Stats" align="center"/>
 
 
