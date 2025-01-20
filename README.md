@@ -36,7 +36,7 @@
 
 <br>
 
-<a href="https://drive.google.com/file/d/1VrId-VOAad4TfYKKZ6VlfetTB-yFUohr/view?usp=sharing"><b>My Resume<b></a>
+<a href="https://drive.google.com/file/d/1xP7IAVBGDVtjhmf4dhrs-5U1HwgZSrqG/view?usp=sharing"><b>My Resume<b></a>
   <br>
   <p align="center">
     <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="20%"/>
