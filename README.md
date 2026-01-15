@@ -24,7 +24,7 @@
   <a href="https://www.instagram.com/clef.anand/">
     <img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" height="48">
   </a>
-  <a href="https://codeforces.com/profile/Jupiter_is_BIG">
+  <a href="https://codeforces.com/profile/i24">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" height="48">
   </a>
   <a href="https://www.linkedin.com/in/anandin">
