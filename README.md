@@ -18,7 +18,7 @@
 
   <p width="50%">I am a Computer Programming and Math Enthusiast currently pursuing BSc in<br> Computer Science from UBC. You can get in touch from the following sources:</p>
 
-  <a href="mailto:a@student.ubc.ca">
+  <a href="mailto:anand.clef@gmail.com">
     <img src="https://www.freeiconspng.com/uploads/email-icon--clipart-best-22.png" height="48">
   </a>
   <a href="https://www.instagram.com/clef.anand/">
@@ -36,7 +36,7 @@
 
 <br>
 
-<a href="https://drive.google.com/file/d/1ArKD9v0PxpbW9Cl_xSyPjNqhWCgVSw-6/view?usp=sharing"><b>My Resume<b></a>
+<a href="https://drive.google.com/file/d/1cjxx_3PAycvRHLOb3vou_sb2vWe3CgOn/view?usp=sharing"><b>My Resume<b></a>
   <br>
   <p align="center">
     <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="20%"/>
